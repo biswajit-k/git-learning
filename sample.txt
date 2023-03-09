@@ -1,3 +1,0 @@
-Hi there, this is a sample. Now main is updated with this commit. After this I will make ntest2 and 
-commit there, also commit something in ntest and merge both into main. Let's see what network looks
-like after that.
