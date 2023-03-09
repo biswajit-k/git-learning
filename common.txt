@@ -1,2 +1,1 @@
-common file from test branch
-common file form test-2 branch
+added text in ntest
