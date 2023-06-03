@@ -1,0 +1,20 @@
+I went to first line using 'gg' command then 'O' command to insert one line above it
+hello there this is the first line
+this is the second line
+
+I am using vim editor to do this
+to write a command press esc
+above line is saved using :w command
+I use i command to insert
+
+I use i command to insert
+Now this line I will copy below using yy and paste using p command
+Now this line I will copy below using yy and paste using p command
+this line is added below above line using o command
+Now this line I will copy below using yy and paste using p command
+I can go to begin of word using 'b' and end of word using 'e' but before that, I \nneed to press esc everytime
+
+I will above line using dd
+
+
+Now this line I will copy below using yy and paste using p command
