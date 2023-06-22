@@ -1,2 +1,3 @@
 added in main
 hello there how are you
+now new line added after merge
