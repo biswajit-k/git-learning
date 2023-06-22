@@ -8,4 +8,3 @@ I made some changes here
 Merged conflict resolved by accepting both changes
 
 New line added
-new change in sample branch
