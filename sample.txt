@@ -1,0 +1,10 @@
+in fresh file,
+git is listening to it, but not added to its index
+which means I can remove it by adding it to gitignore
+
+But, what if I stage it, then add it to gitignore
+does staging makes git add it to index
+the answer is yes, but if I unstage it, it removes it
+
+If a file, is commit once, git has added it to its index.
+so
