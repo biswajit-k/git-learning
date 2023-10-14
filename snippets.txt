@@ -1,3 +1,0 @@
-It contains good snippets of git-
-
-git log --oneline --graph   => this shows network graph of branches(their commits) and their merges of commits
